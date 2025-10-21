@@ -56,17 +56,3 @@ backend/
 python -m pytest
 ```
 
-## 🚀 Deployment
-- **Heroku**: `git push heroku main`
-- **Docker**: `docker build -t gemcart-api .`
-
-## 👥 Team Tasks
-- [ ] Payment API integration
-- [ ] Order management system
-- [ ] User profile endpoints
-- [ ] Product inventory tracking
-- [ ] Email notifications
-- [ ] API documentation
-
-## 📞 Frontend Repository
-https://github.com/YOUR_USERNAME/gemcart-frontend
